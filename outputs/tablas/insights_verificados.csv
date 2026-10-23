@@ -1,0 +1,19 @@
+id,afirmacion,valor,fuente,notebook
+puebla_pct,Puebla concentra 66% de la superficie sembrada de cempasúchil (promedio 2021-2025),66.5,SIAP,01
+ha_reciente,"México siembra unas 2,227 hectáreas de cempasúchil al año (2021-2025)",2227.0,SIAP,01
+pico_ha,"En 1985 se sembraron 17,577 ha, 8 veces más que hoy",17577.0,SIAP,02
+check_1985,"La suma del SIAP para 1985 confirma la cifra de Gaceta UNAM (más de 16,600 ha)",17577.0,SIAP + Gaceta UNAM,02
+ultimo_forrajero,"El último cempasúchil forrajero (para pigmento) que registra el SIAP es de 2001, todo en Sinaloa",2001.0,SIAP,02
+geografia,"En los 80, Sinaloa, Sonora y el Bajío tenían 83% de la superficie; entre 2021 y 2025, 2.5%",82.7,SIAP,02
+sonora_pico,"Sonora cosechó 17,525 t de cempasúchil en 1982 (15% del país)",17525.0,SIAP,03
+sonora_hoy,"Entre 2018 y 2024 Sonora registró de 17 a 100 t al año, solo en Ímuris y Magdalena",100.37,SIAP,03
+sonora_2025,En el cierre 2025 el SIAP no registra cempasúchil en Sonora,0.0,SIAP,03
+sonora_caida,De 1982 a 2024 la cosecha sonorense se redujo 779 veces,779.0,SIAP,03
+distancia_media,"La flor sembrada en México está, en promedio, a 1,990 km por carretera de Hermosillo",1990.0,SIAP + OSRM,04
+cerca_pct,Solo 0.24% de la superficie está a menos de 500 km de Hermosillo,0.24,SIAP + OSRM,04
+plantas_crecen,Las plantas en maceta registradas por el SIAP pasaron de 0.36 a 3.02 millones entre 2005 y 2025,3021200.0,SIAP,05
+cdmx_2026,La CDMX reporta 9.9 millones de plantas en 2026,9924300.0,La Razón de México,05
+semilla,"Se importa el 99% de la semilla del cempasúchil en maceta, sobre todo de Estados Unidos (Consejo Mexicano de la Flor)",99.0,Imagen Agropecuaria,05
+china_india,China e India concentran cerca del 95% de la producción industrial de cempasúchil,95.0,UNAM Global,—
+pigmento,"Desde 2000 México no produce pigmento industrial de cempasúchil; importa unos 100 millones de gramos al año, 90% de China",100000000.0,Forbes México (Sánchez Millán),—
+china_empresa,"Una sola empresa china siembra 6,000 ha, 2.7 veces toda la superficie mexicana actual",6000.0,Forbes México,—

@@ -1,0 +1,564 @@
+anio,idestado,nomestado,nomcultivo,presentacion,nomunidad,sembrada,cosechada,siniestrada,volumenproduccion,valorproduccion,precio
+1980,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,2251.0,2251.0,0.0,33375.0,81769.0,2.450007490636704
+1980,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,24.0,24.0,0.0,62.0,513.0,8.274193548387096
+1980,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,33.0,33.0,0.0,472.0,1416.0,3.0
+1980,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,264.0,264.0,0.0,1677.0,11076.0,6.604651162790698
+1980,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,87.0,87.0,0.0,945.0,2797.0,2.9597883597883596
+1980,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,71.0,71.0,0.0,147.0,368.0,2.503401360544218
+1980,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,2105.0,2085.0,20.0,41632.0,87968.0,2.112990007686395
+1980,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,609.0,609.0,0.0,7560.0,11340.0,1.5
+1981,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,1967.0,1957.0,10.0,25045.0,87575.0,3.496705929327211
+1981,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,69.0,69.0,0.0,308.0,1937.0,6.288961038961039
+1981,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,91.0,91.0,0.0,1001.0,6810.0,6.803196803196803
+1981,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,176.0,176.0,0.0,2350.0,8510.0,3.6212765957446806
+1981,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,104.0,104.0,0.0,571.0,3231.0,5.658493870402802
+1981,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,262.0,262.0,0.0,5192.0,18301.0,3.524845916795069
+1981,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,19.0,19.0,0.0,229.0,687.0,3.0
+1981,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,3686.0,3559.0,127.0,58211.0,127657.0,2.1930047585507895
+1981,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,1084.0,1084.0,0.0,15174.0,45522.0,3.0
+1982,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,2339.0,1983.0,356.0,26722.0,136005.0,5.089626524960707
+1982,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,67.0,66.0,1.0,302.0,1739.0,5.758278145695364
+1982,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,423.0,423.0,0.0,4455.0,40081.0,8.99685746352413
+1982,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,292.0,292.0,0.0,3062.0,20265.0,6.6182233834095365
+1982,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,81.0,81.0,0.0,648.0,6256.0,9.654320987654321
+1982,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,212.0,202.0,10.0,2934.0,14758.0,5.0299931833674165
+1982,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,81.0,28.0,53.0,359.0,1699.0,4.7325905292479105
+1982,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,3383.0,3372.0,11.0,61723.0,276642.0,4.481992126111822
+1982,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,1537.0,1527.0,10.0,17525.0,80948.0,4.619001426533524
+1983,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,1220.0,1220.0,0.0,14354.0,140353.0,9.777971297199388
+1983,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,157.0,157.0,0.0,1682.0,18127.0,10.77705112960761
+1983,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,76.0,72.0,4.0,677.0,6520.0,9.630723781388479
+1983,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,56.0,55.0,1.0,474.0,5715.0,12.056962025316455
+1983,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,25.0,25.0,0.0,522.0,4907.0,9.400383141762452
+1983,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,1974.0,1957.0,17.0,26964.0,227360.0,8.431983385254414
+1983,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,825.0,825.0,0.0,9013.0,72149.0,8.00499278819483
+1984,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,3198.0,3182.0,16.0,43224.0,1103648.0,25.53322228391634
+1984,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,395.0,393.0,2.0,4555.0,104005.0,22.833150384193193
+1984,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,304.0,304.0,0.0,3090.0,51259.0,16.588673139158576
+1984,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1036.0,1028.0,8.0,9330.0,139999.0,15.005251875669883
+1984,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,16.0,16.0,0.0,348.0,6960.0,20.0
+1984,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,4303.0,4178.0,125.0,66401.0,1213744.0,18.279001822261712
+1984,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,596.0,591.0,5.0,6921.0,91302.0,13.192024273948851
+1985,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,5804.0,5764.0,40.0,77906.0,2178784.0,27.96683182296614
+1985,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,684.0,684.0,0.0,8498.0,209390.0,24.63991527418216
+1985,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,600.0,583.0,17.0,4742.0,108794.0,22.942640236187263
+1985,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,2284.0,2284.0,0.0,29032.0,834273.0,28.73632543400386
+1985,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,10.0,10.0,0.0,15.0,150.0,10.0
+1985,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,9.0,9.0,0.0,192.0,8700.0,45.3125
+1985,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,7162.0,6571.0,591.0,121548.0,3403344.0,28.0
+1985,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,1024.0,768.0,256.0,6739.0,177027.0,26.269031013503486
+1986,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,501.0,490.0,11.0,5396.0,189831.0,35.1799481097109
+1986,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,47.0,47.0,0.0,364.0,18248.0,50.13186813186813
+1986,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,96.0,96.0,0.0,768.0,17664.0,23.0
+1986,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,386.0,386.0,0.0,3515.0,135626.0,38.58492176386913
+1986,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,2471.0,2471.0,0.0,25844.0,904540.0,35.0
+1986,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,10.0,9.0,1.0,54.0,4865.0,90.0925925925926
+1986,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,13.0,13.0,0.0,53.0,4700.0,88.67924528301887
+1986,25,Sinaloa,Zempoalxochitl forrajero,Forrajero (t),Tonelada,2676.0,2676.0,0.0,38340.0,1068314.0,27.864214919144498
+1987,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,1244.0,1238.0,6.0,14965.0,1307746.0,87.38696959572336
+1987,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,57.0,56.0,1.0,388.0,119093.0,306.94072164948454
+1987,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,126.0,126.0,0.0,1531.0,154740.0,101.07119529719138
+1987,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,570.0,569.0,1.0,5195.0,674886.0,129.9106833493744
+1987,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1147.0,1147.0,0.0,7829.0,713810.0,91.17511815046622
+1987,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,10.0,10.0,0.0,70.0,9315.0,133.07142857142858
+1987,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,10.0,10.0,0.0,300.0,45000.0,150.0
+1987,25,Sinaloa,Zempoalxochitl forrajero,Forrajero (t),Tonelada,5705.0,5622.0,83.0,120192.0,6199680.0,51.5814696485623
+1987,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,654.0,654.0,0.0,6869.0,377795.0,55.0
+1988,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,2734.0,2722.0,12.0,30763.0,9230161.0,300.04099080063713
+1988,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,43.0,43.0,0.0,102.0,78500.0,769.6078431372549
+1988,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,728.0,728.0,0.0,7923.0,2066253.0,260.79174555092766
+1988,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,534.0,534.0,0.0,4648.0,1103953.0,237.51140275387263
+1988,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,2023.0,2023.0,0.0,17806.0,3627144.0,203.70347074019992
+1988,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,18.0,18.0,0.0,213.0,57054.0,267.85915492957747
+1988,25,Sinaloa,Zempoalxochitl forrajero,Forrajero (t),Tonelada,10534.0,10421.0,113.0,181151.0,44916486.0,247.95052746051635
+1988,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,886.0,886.0,0.0,6565.0,1425856.0,217.19055597867478
+1988,32,Zacatecas,Zempoalxochitl,Flor a granel (t),Tonelada,6.0,6.0,0.0,40.0,11213.0,280.325
+1989,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,3057.0,3049.0,8.0,35300.0,11211931.0,317.6184419263456
+1989,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,1297.0,1261.0,36.0,12375.0,4331250.0,350.0
+1989,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,504.0,504.0,0.0,3872.0,1271429.0,328.3649276859504
+1989,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,3165.0,3160.0,5.0,31928.0,8931520.0,279.73941368078175
+1989,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,15.0,15.0,0.0,209.0,62700.0,300.0
+1989,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,5.0,5.0,0.0,60.0,13846.0,230.76666666666668
+1989,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,1637.0,1454.0,183.0,18363.0,5325270.0,290.0
+1989,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,481.0,481.0,0.0,3901.0,763291.0,195.66547039220714
+1989,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,23.0,23.0,0.0,345.0,172500.0,500.0
+1989,32,Zacatecas,Zempoalxochitl,Flor a granel (t),Tonelada,48.0,48.0,0.0,481.0,144300.0,300.0
+1990,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,1374.0,1374.0,0.0,13996.0,4903266.0,350.3333809659903
+1990,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,880.0,880.0,0.0,12243.0,4106074.0,335.3813607775872
+1990,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,204.0,204.0,0.0,2347.0,745109.0,317.4729441840648
+1990,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,2121.0,2121.0,0.0,18198.0,12738600.0,700.0
+1990,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,565.0,557.0,8.0,8365.0,2367295.0,283.0
+1990,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,110.0,110.0,0.0,990.0,1188000.0,1200.0
+1991,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,1499.0,1487.0,12.0,19556.0,8944780.0,457.39312742892207
+1991,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,319.0,319.0,0.0,1836.0,1323113.0,720.6497821350763
+1991,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,120.0,120.0,0.0,1800.0,788400.0,438.0
+1991,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,177.0,177.0,0.0,1760.0,909606.0,516.8215909090909
+1991,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,187.0,187.0,0.0,2340.0,2199000.0,939.7435897435897
+1991,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,2171.0,2136.0,35.0,19259.0,7410924.0,384.80315696557454
+1991,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,2.0,2.0,0.0,26.0,15600.0,600.0
+1992,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,2165.0,2165.0,0.0,21931.0,11930774.0,544.014135242351
+1992,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,2.0,2.0,0.0,9.0,10764.0,1196.0
+1992,13,Hidalgo,Zempoalxochitl forrajero,Forrajero (t),Tonelada,315.0,315.0,0.0,1789.0,1967900.0,1100.0
+1992,14,Jalisco,Zempoalxochitl,Flor a granel (t),Tonelada,45.0,45.0,0.0,810.0,486000.0,600.0
+1992,15,México,Zempoalxochitl,Flor a granel (t),Tonelada,230.0,230.0,0.0,946.0,1523000.0,1609.936575052854
+1992,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,82.0,37.0,45.0,233.0,153780.0,660.0
+1992,16,Michoacán,Zempoalxochitl forrajero,Forrajero (t),Tonelada,1190.0,1190.0,0.0,8385.0,4381150.0,522.4985092426953
+1992,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,100.0,100.0,0.0,853.0,426945.0,500.5216881594373
+1992,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,283.0,279.0,4.0,2282.0,4711000.0,2064.4171779141107
+1992,21,Puebla,Zempoalxochitl forrajero,Forrajero (t),Tonelada,3039.0,3017.0,22.0,27932.0,12906841.0,462.0808033796363
+1992,25,Sinaloa,Zempoalxochitl forrajero,Forrajero (t),Tonelada,7494.0,6850.0,644.0,58391.0,36815358.0,630.4971314072374
+1992,32,Zacatecas,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,60.0,30000.0,500.0
+1993,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,1789.0,1779.0,10.0,18985.0,12330327.0,649.4773242033184
+1993,13,Hidalgo,Zempoalxochitl forrajero,Forrajero (t),Tonelada,194.0,194.0,0.0,1283.0,776215.0,605.0
+1993,14,Jalisco,Zempoalxochitl,Flor a granel (t),Tonelada,60.0,60.0,0.0,420.0,300720.0,716.0
+1993,15,México,Zempoalxochitl,Flor a granel (t),Tonelada,100.0,100.0,0.0,835.0,1126415.0,1349.0
+1993,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,133.0,133.0,0.0,1432.0,1002400.0,700.0
+1993,16,Michoacán,Zempoalxochitl forrajero,Forrajero (t),Tonelada,648.0,647.0,1.0,6807.0,3699861.0,543.5376817981489
+1993,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,142.0,142.0,0.0,1108.0,706988.0,638.0758122743682
+1993,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,702.0,702.0,0.0,8026.0,20474507.0,2551.0225517069525
+1993,21,Puebla,Zempoalxochitl forrajero,Forrajero (t),Tonelada,2369.0,2369.0,0.0,20816.0,11655727.0,559.9407667179094
+1993,25,Sinaloa,Zempoalxochitl forrajero,Forrajero (t),Tonelada,9682.0,9682.0,0.0,153120.0,76601800.0,500.27298850574715
+1994,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,945.0,945.0,0.0,11370.0,8970134.0,788.9299912049253
+1994,13,Hidalgo,Zempoalxochitl forrajero,Forrajero (t),Tonelada,217.0,217.0,0.0,1238.0,1100582.0,889.0
+1994,14,Jalisco,Zempoalxochitl,Flor a granel (t),Tonelada,146.0,146.0,0.0,1785.0,1231650.0,690.0
+1994,15,México,Zempoalxochitl,Flor a granel (t),Tonelada,2.0,2.0,0.0,16.0,32000.0,2000.0
+1994,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,190.0,170.0,20.0,1820.0,1365000.0,750.0
+1994,16,Michoacán,Zempoalxochitl forrajero,Forrajero (t),Tonelada,143.0,135.0,8.0,1611.0,1047150.0,650.0
+1994,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,39.0,39.0,0.0,411.0,248466.0,604.5401459854014
+1994,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,504.0,504.0,0.0,5672.0,13665022.0,2409.206981664316
+1994,21,Puebla,Zempoalxochitl forrajero,Forrajero (t),Tonelada,1685.0,1685.0,0.0,11451.0,10439685.0,911.6832591040084
+1994,25,Sinaloa,Zempoalxochitl forrajero,Forrajero (t),Tonelada,3673.0,3673.0,0.0,35000.0,17850000.0,510.0
+1994,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,20.0,20.0,0.0,500.0,125000.0,250.0
+1995,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,918.0,918.0,0.0,9228.0,6265812.0,679.0
+1995,13,Hidalgo,Zempoalxochitl forrajero,Forrajero (t),Tonelada,108.0,104.0,4.0,581.0,871500.0,1500.0
+1995,14,Jalisco,Zempoalxochitl,Flor a granel (t),Tonelada,161.0,161.0,0.0,1774.0,1245348.0,702.0
+1995,15,México,Zempoalxochitl,Flor a granel (t),Tonelada,25.0,25.0,0.0,200.0,120000.0,600.0
+1995,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,644.0,644.0,0.0,5677.0,2840487.0,500.3500088074687
+1995,16,Michoacán,Zempoalxochitl forrajero,Forrajero (t),Tonelada,630.0,630.0,0.0,8240.0,4284800.0,520.0
+1995,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,28.0,28.0,0.0,316.0,201800.0,638.6075949367089
+1995,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,535.0,535.0,0.0,5902.0,8265000.0,1400.3727549983057
+1995,21,Puebla,Zempoalxochitl forrajero,Forrajero (t),Tonelada,2299.0,2299.0,0.0,16798.0,13700239.0,815.5875104179069
+1995,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,18.0,18.0,0.0,270.0,135000.0,500.0
+1995,25,Sinaloa,Zempoalxochitl forrajero,Forrajero (t),Tonelada,2605.0,2605.0,0.0,25684.0,13484100.0,525.0
+1995,32,Zacatecas,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,31.0,18600.0,600.0
+1996,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,773.0,773.0,0.0,7741.0,19830274.52,2561.72
+1996,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,26.0,26.0,0.0,130.0,130000.0,1000.0
+1996,13,Hidalgo,Zempoalxochitl forrajero,Forrajero (t),Tonelada,110.0,110.0,0.0,605.0,605000.0,1000.0
+1996,14,Jalisco,Zempoalxochitl,Flor a granel (t),Tonelada,59.0,59.0,0.0,1226.0,4337588.0,3538.0
+1996,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,3306.0,3298.0,8.0,39840.0,51173993.94,1284.487799698795
+1996,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,270.0,206.0,64.0,1989.0,3641500.0,1830.8195072900955
+1996,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1995.0,1995.0,0.0,14585.0,17271655.0,1184.2067192320878
+1996,25,Sinaloa,Zempoalxochitl forrajero,Forrajero (t),Tonelada,5625.0,5625.0,0.0,55961.0,49334098.38,881.58
+1996,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,7.0,7.0,0.0,35.0,70000.0,2000.0
+1996,32,Zacatecas,Zempoalxochitl,Flor a granel (t),Tonelada,66.0,66.0,0.0,699.0,489300.0,700.0
+1997,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,15.0,15.0,0.0,78.0,195000.0,2500.0
+1997,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,375.0,375.0,0.0,4523.0,12751486.7,2819.2541896971034
+1997,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,115.0,102.0,13.0,291.0,329030.79,1130.6899999999998
+1997,14,Jalisco,Zempoalxochitl,Flor a granel (t),Tonelada,36.0,36.0,0.0,768.0,815301.12,1061.59
+1997,15,México,Zempoalxochitl,Flor en manojo,Manojo,103.0,103.0,0.0,129368.0,1102215.0,8.51999721724074
+1997,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,2795.0,2795.0,0.0,29825.0,29843004.8,1000.6036814752724
+1997,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,2.0,2.0,0.0,16.0,13600.0,850.0
+1997,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,358.0,352.0,6.0,2754.0,4252500.0,1544.1176470588234
+1997,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1393.0,1393.0,0.0,7884.0,9484968.0,1203.0654490106544
+1997,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,555.0,555.0,0.0,9278.0,7422400.0,800.0
+1997,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,444.0,441.0,3.0,3727.0,3011596.4,808.0484035417226
+1997,25,Sinaloa,Zempoalxochitl forrajero,Forrajero (t),Tonelada,5957.0,5954.0,3.0,90147.0,91778660.7,1018.1
+1997,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,180.0,180.0,0.0,2430.0,5346000.0,2200.0
+1997,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,10.0,10.0,0.0,40.0,84000.0,2100.0
+1997,32,Zacatecas,Zempoalxochitl,Flor a granel (t),Tonelada,10.0,10.0,0.0,45.0,40500.0,900.0
+1998,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,4.0,4.0,0.0,21.0,54600.0,2600.0
+1998,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,215.0,215.0,0.0,2396.0,5474155.16,2284.7058263772956
+1998,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,11.0,11.0,0.0,86.0,133580.0,1553.2558139534883
+1998,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,25.0,25.0,0.0,150.0,375000.0,2500.0
+1998,14,Jalisco,Zempoalxochitl,Flor a granel (t),Tonelada,15.0,15.0,0.0,108.0,129600.0,1200.0
+1998,15,México,Zempoalxochitl,Flor en manojo,Manojo,61.0,61.0,0.0,168766.02,2531490.3,15.0
+1998,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,3167.0,3157.0,10.0,32178.0,45330405.269999996,1408.7390537012864
+1998,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,9.0,9.0,0.0,72.0,79200.0,1100.0
+1998,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,175.0,168.0,7.0,1370.0,2667000.0,1946.7153284671533
+1998,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,808.0,808.0,0.0,4434.0,6193336.0,1396.783040144339
+1998,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,728.0,726.0,2.0,11288.0,12331914.24,1092.48
+1998,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,18.0,18.0,0.0,144.0,151200.0,1050.0
+1998,25,Sinaloa,Zempoalxochitl forrajero,Forrajero (t),Tonelada,3460.0,3436.0,24.0,41900.0,49331450.0,1177.3615751789976
+1999,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,39.0,39.0,0.0,117.0,351000.0,3000.0
+1999,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,265.0,265.0,0.0,2634.0,3694167.09,1402.4932004555808
+1999,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,11.0,11.0,0.0,89.0,149250.0,1676.9662921348315
+1999,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,83.0,45.0,38.0,123.0,118799.55,965.85
+1999,15,México,Zempoalxochitl,Flor a granel (t),Tonelada,48.0,48.0,0.0,864.0,1209600.0,1400.0
+1999,15,México,Zempoalxochitl,Flor en manojo,Manojo,40.0,40.0,0.0,156000.0,2640000.0,16.923076923076923
+1999,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,2684.0,2633.4,50.6,31942.8,39212877.67,1227.5967563895465
+1999,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,313.0,288.0,25.0,2920.0,7180000.0,2458.904109589041
+1999,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1439.0,1405.0,34.0,13210.0,18673225.599999998,1413.5674186222557
+1999,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,683.0,655.0,28.0,11977.0,13768519.66,1149.58
+1999,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,215.0,215.0,0.0,2376.0,2821200.0,1187.3737373737374
+1999,25,Sinaloa,Zempoalxochitl forrajero,Forrajero (t),Tonelada,3892.0,3892.0,0.0,55423.0,89561700.0,1615.9662955812569
+1999,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,72.0,169056.0,2348.0
+2000,3,Baja California Sur,Zempoalxochitl,Flor a granel (t),Tonelada,2.0,0.0,2.0,0.0,0.0,
+2000,7,Chiapas,Zempoalxochitl,Flor a granel (t),Tonelada,45.0,45.0,0.0,67.5,101250.0,1500.0
+2000,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,20.0,20.0,0.0,310.0,1302000.0,4200.0
+2000,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,146.14,146.14,0.0,1952.6,2532751.71,1297.1175407149442
+2000,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,21.0,21.0,0.0,142.5,383000.0,2687.719298245614
+2000,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,78.0,78.0,0.0,642.0,440996.22,686.91
+2000,15,México,Zempoalxochitl,Flor a granel (t),Tonelada,6.0,6.0,0.0,51.0,71400.0,1400.0
+2000,15,México,Zempoalxochitl,Flor en manojo,Manojo,10.0,10.0,0.0,12000.0,360000.0,30.0
+2000,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,2005.0,2005.0,0.0,27704.0,36957126.32,1333.9996505919723
+2000,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,10.0,10.0,0.0,92.0,214000.0,2326.086956521739
+2000,19,Nuevo León,Zempoalxochitl,Flor a granel (t),Tonelada,5.0,0.0,5.0,0.0,0.0,
+2000,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,330.0,330.0,0.0,3360.0,8328000.0,2478.5714285714284
+2000,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,802.5,802.5,0.0,6016.4,20266536.96,3368.5487932983183
+2000,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,654.0,654.0,0.0,4440.0,5314000.0,1196.8468468468468
+2000,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,82.0,82.0,0.0,716.0,967200.0,1350.8379888268157
+2000,25,Sinaloa,Zempoalxochitl forrajero,Forrajero (t),Tonelada,5459.0,5459.0,0.0,64902.0,113052610.0,1741.897168037965
+2000,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,132.0,264000.0,2000.0
+2001,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,23.0,23.0,0.0,288.0,691200.0,2400.0
+2001,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,11.0,11.0,0.0,176.0,172798.56,981.81
+2001,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,17.0,17.0,0.0,103.0,194850.0,1891.7475728155339
+2001,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,34.0,34.0,0.0,258.0,349529.7,1354.7662790697675
+2001,15,México,Zempoalxochitl,Flor en manojo,Manojo,41.0,41.0,0.0,49200.0,1476000.0,30.0
+2001,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,7.0,7.0,0.0,72.0,180000.0,2500.0
+2001,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,252.0,252.0,0.0,2920.0,9670000.0,3311.6438356164385
+2001,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,698.0,698.0,0.0,6606.5,44870618.7,6791.889608718687
+2001,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,170.0,170.0,0.0,2135.0,2348500.0,1100.0
+2001,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,25.0,25.0,0.0,250.0,250000.0,1000.0
+2001,25,Sinaloa,Zempoalxochitl forrajero,Forrajero (t),Tonelada,2872.0,2872.0,0.0,34998.0,79379450.0,2268.1138922224127
+2001,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,15.0,15.0,0.0,216.0,704000.16,3259.26
+2002,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,6.0,6.0,0.0,38.0,114000.0,3000.0
+2002,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,1.0,1.0,0.0,13.0,13000.0,1000.0
+2002,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,17.0,17.0,0.0,143.0,300300.0,2100.0
+2002,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,98.0,98.0,0.0,828.0,854466.84,1031.9647826086957
+2002,15,México,Zempoalxochitl,Flor en manojo,Manojo,27.0,27.0,0.0,51400.0,771000.0,15.0
+2002,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,1.0,1.0,0.0,10.0,29850.0,2985.0
+2002,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,29.0,29.0,0.0,283.0,688500.0,2432.8621908127207
+2002,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,745.0,745.0,0.0,5535.7,39235973.06,7087.806972921221
+2002,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,30.0,30.0,0.0,300.0,300000.0,1000.0
+2002,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,1136.0,1136.0,0.0,12691.0,22843800.0,1800.0
+2002,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,10.0,10.0,0.0,30.0,135000.0,4500.0
+2003,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,8.0,8.0,0.0,69.0,276000.0,4000.0
+2003,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,22.0,22.0,0.0,177.0,376500.0,2127.1186440677966
+2003,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,60.0,210000.0,3500.0
+2003,15,México,Zempoalxochitl (manojo),Flor en manojo,Manojo,53.0,48.8,4.2,65640.0,627300.0,9.556672760511884
+2003,16,Michoacán,Zempoalxochitl (manojo),Flor en manojo,Manojo,32.0,32.0,0.0,202220.0,1773300.0,8.769162298486796
+2003,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,2.0,2.0,0.0,18.0,31800.0,1766.6666666666667
+2003,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,45.0,45.0,0.0,510.0,1230000.0,2411.764705882353
+2003,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,736.0,736.0,0.0,6267.0,9400500.0,1500.0
+2003,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,18.0,18.0,0.0,180.0,606000.0,3366.6666666666665
+2003,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,1144.0,1144.0,0.0,14818.0,26094900.0,1761.027129167229
+2003,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,144.0,360000.0,2500.0
+2004,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,14.0,14.0,0.0,182.0,728000.0,4000.0
+2004,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,1.0,1.0,0.0,12.0,13200.0,1100.0
+2004,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,20.0,20.0,0.0,166.0,365200.0,2200.0
+2004,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,60.0,270000.0,4500.0
+2004,15,México,Zempoalxochitl (manojo),Flor en manojo,Manojo,46.0,46.0,0.0,65570.0,857410.0,13.076254384627116
+2004,16,Michoacán,Zempoalxochitl (manojo),Flor en manojo,Manojo,20.0,20.0,0.0,62220.0,1244400.0,20.0
+2004,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,2.1,2.1,0.0,21.2,47440.0,2237.735849056604
+2004,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,72.0,72.0,0.0,828.0,2322000.0,2804.3478260869565
+2004,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,797.0,797.0,0.0,5778.0,8700600.0,1505.815160955348
+2004,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,22.0,22.0,0.0,220.0,772500.0,3511.3636363636365
+2004,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,318.0,316.0,2.0,6266.0,33398000.0,5330.035110118098
+2004,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,144.0,367200.0,2550.0
+2005,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,20.0,20.0,0.0,169.0,376200.0,2226.03550295858
+2005,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,36.0,36.0,0.0,252.0,462000.0,1833.3333333333333
+2005,15,México,Zempoalxochitl,Flor en manojo,Manojo,81.0,81.0,0.0,107400.0,1317025.0,12.26280260707635
+2005,15,México,Zempoalxochitl,Planta en maceta,Planta,1.0,1.0,0.0,360000.0,1800000.0,5.0
+2005,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,13.0,13.0,0.0,54000.0,540000.0,10.0
+2005,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,8.8,8.8,0.0,80.1,209710.0,2618.1023720349567
+2005,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,269.0,269.0,0.0,3210.0,12705000.0,3957.9439252336447
+2005,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,783.0,783.0,0.0,5730.0,8595000.0,1500.0
+2005,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,42.0,42.0,0.0,420.0,1680000.0,4000.0
+2005,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,5.0,0.0,5.0,0.0,0.0,
+2005,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,144.0,388800.0,2700.0
+2006,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,26.0,26.0,0.0,284.0,1278000.0,4500.0
+2006,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,30.0,29.0,1.0,244.0,597100.0,2447.1311475409834
+2006,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,60.0,300000.0,5000.0
+2006,15,México,Zempoalxochitl,Flor en manojo,Manojo,83.0,83.0,0.0,112920.0,2119000.0,18.765497697484946
+2006,15,México,Zempoalxochitl,Planta en maceta,Planta,2.0,2.0,0.0,720000.0,4320000.0,6.0
+2006,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,20.0,20.0,0.0,106000.0,1180000.0,11.132075471698114
+2006,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,5.0,5.0,0.0,50.0,130000.0,2600.0
+2006,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,183.0,183.0,0.0,2021.0,9062000.0,4483.918852053439
+2006,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,803.0,803.0,0.0,5938.0,7329300.0,1234.3044796227687
+2006,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,10.0,10.0,0.0,100.0,600000.0,6000.0
+2006,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,2.0,2.0,0.0,8.0,26800.0,3350.0
+2006,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,144.0,410400.0,2850.0
+2007,9,Ciudad de México / DF,Zempoalxochitl,Planta en maceta,Planta,2.5,2.3,0.2,222000.0,1704960.0,7.68
+2007,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,23.0,23.0,0.0,240.0,600000.0,2500.0
+2007,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,38.0,29.0,9.0,171.0,682850.0,3993.2748538011697
+2007,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,44.5,44.0,0.5,285.0,790100.0,2772.280701754386
+2007,15,México,Zempoalxochitl,Flor en manojo,Manojo,85.5,85.5,0.0,120892.5,2519650.0,20.842070434476913
+2007,15,México,Zempoalxochitl,Planta en maceta,Planta,2.0,2.0,0.0,696000.0,3480000.0,5.0
+2007,16,Michoacán,Zempoalxochitl,Flor a granel (t),Tonelada,6.0,0.0,6.0,0.0,0.0,
+2007,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,37.0,37.0,0.0,172500.0,2730000.0,15.826086956521738
+2007,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,23.0,23.0,0.0,254.0,998400.0,3930.7086614173227
+2007,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,32.0,32.0,0.0,236.2,1202900.0,5092.718035563083
+2007,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,843.0,843.0,0.0,6315.8,10987420.0,1739.6719338801101
+2007,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,104.0,520000.0,5000.0
+2007,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,6.0,6.0,0.0,18.0,108000.0,6000.0
+2007,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,144.0,417600.0,2900.0
+2008,9,Ciudad de México / DF,Zempoalxochitl,Planta en maceta,Planta,2.5,2.5,0.0,250000.0,1750000.0,7.0
+2008,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,27.0,27.0,0.0,331.0,628900.0,1900.0
+2008,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,28.5,28.5,0.0,232.0,850700.0,3666.810344827586
+2008,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,70.0,70.0,0.0,469.0,1100800.0,2347.1215351812366
+2008,15,México,Zempoalxochitl,Flor en manojo,Manojo,81.0,81.0,0.0,123920.0,1988880.0,16.049709489993543
+2008,15,México,Zempoalxochitl,Planta en maceta,Planta,1.3,1.3,0.0,461500.0,2307500.0,5.0
+2008,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,65.0,65.0,0.0,235005.0,3554100.0,15.123508010467862
+2008,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,21.0,21.0,0.0,270.0,797000.0,2951.8518518518517
+2008,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,34.0,34.0,0.0,271.0,1434200.0,5292.250922509225
+2008,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,619.52,619.52,0.0,5416.92,5443080.0,1004.8293125983031
+2008,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,23.0,23.0,0.0,230.0,828000.0,3600.0
+2008,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,144.0,432000.0,3000.0
+2009,9,Ciudad de México / DF,Zempoalxochitl,Planta en maceta,Planta,2.5,2.5,0.0,250000.0,1875000.0,7.5
+2009,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,5.0,5.0,0.0,76.0,228000.0,3000.0
+2009,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,32.0,32.0,0.0,284.0,802600.0,2826.056338028169
+2009,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,22.0,22.0,0.0,133.0,458000.0,3443.6090225563908
+2009,15,México,Zempoalxochitl,Flor en manojo,Manojo,85.0,85.0,0.0,126575.0,2167756.25,17.126259134900256
+2009,15,México,Zempoalxochitl,Planta en maceta,Planta,1.3,1.3,0.0,468000.0,2808000.0,6.0
+2009,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,20.0,20.0,0.0,119600.0,2220000.0,18.561872909698998
+2009,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,20.0,20.0,0.0,260.0,1030000.0,3961.5384615384614
+2009,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,45.0,40.0,5.0,271.5,1813100.0,6678.084714548803
+2009,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,594.52,594.52,0.0,5234.96,9703516.0,1853.5988813668107
+2009,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,19.5,19.5,0.0,195.0,975000.0,5000.0
+2009,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,144.0,453600.0,3150.0
+2010,9,Ciudad de México / DF,Zempoalxochitl,Planta en maceta,Planta,2.5,2.5,0.0,300000.0,2400000.0,8.0
+2010,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,29.0,29.0,0.0,275.49,794272.0,2883.124614323569
+2010,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,54.0,297000.0,5500.0
+2010,15,México,Zempoalxochitl,Flor en manojo,Manojo,93.0,93.0,0.0,146077.5,2840557.5,19.4455511629101
+2010,15,México,Zempoalxochitl,Planta en maceta,Planta,1.5,1.5,0.0,540195.0,4861755.0,9.0
+2010,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,24.0,24.0,0.0,122300.0,2322600.0,18.991005723630416
+2010,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,10.0,10.0,0.0,120.0,528000.0,4400.0
+2010,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,42.08,42.08,0.0,299.0,2022782.88,6765.160133779264
+2010,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,547.52,531.52,16.0,4738.0599999999995,9074351.44,1915.2039948839822
+2010,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,21.0,21.0,0.0,210.25,912612.5,4340.606420927467
+2010,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,12.0,12.0,0.0,144.03,460915.2,3200.1333055613413
+2011,9,Ciudad de México / DF,Zempoalxochitl,Planta en maceta,Planta,5.0,3.3,1.7,330000.0,3300000.0,10.0
+2011,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,43.5,43.5,0.0,348.5,1374900.45,3945.1949784791964
+2011,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,20.0,12.0,8.0,60.0,342000.0,5700.0
+2011,15,México,Zempoalxochitl,Flor en manojo,Manojo,94.0,82.0,12.0,126340.0,2390840.0,18.92385626088333
+2011,15,México,Zempoalxochitl,Planta en maceta,Planta,2.0,2.0,0.0,720100.0,5040700.0,7.0
+2011,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,70.0,70.0,0.0,308600.0,6464000.0,20.946208684381077
+2011,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,10.0,10.0,0.0,105.0,462050.4,4400.4800000000005
+2011,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,24.4,24.4,0.0,177.44,1193787.0,6727.834761045988
+2011,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,899.8,818.8,81.0,8439.2,15761474.0,1867.6502512086452
+2011,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,22.0,22.0,0.0,218.8,1147270.0,5243.464351005484
+2011,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,3.0,3.0,0.0,36.25,109950.0,3033.103448275862
+2012,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,1.0,1.0,0.0,4.0,38000.0,9500.0
+2012,11,Guanajuato,Zempoalxochitl,Flor a granel (t),Tonelada,130.0,130.0,0.0,1540.0,3330000.0,2162.3376623376626
+2012,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,34.0,34.0,0.0,268.8,989359.49,3680.652864583333
+2012,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,84.0,84.0,0.0,588.6800000000001,3536017.8,6006.68920296256
+2012,15,México,Zempoalxochitl,Flor en manojo,Manojo,103.0,103.0,0.0,161688.76,2917328.2,18.04286333818133
+2012,15,México,Zempoalxochitl,Planta en maceta,Planta,2.0,2.0,0.0,720000.0,5688000.0,7.9
+2012,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,78.0,78.0,0.0,361700.0,8333400.0,23.03953552667957
+2012,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,14.0,14.0,0.0,174.7,750240.0,4294.447624499142
+2012,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,43.1,43.1,0.0,302.1,2088135.0,6912.065541211518
+2012,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1211.3,1211.3,0.0,10162.19,15186233.75,1494.3859296076928
+2012,22,Querétaro,Zempoalxochitl,Flor a granel (t),Tonelada,105.0,105.0,0.0,1433.0,2722700.0,1900.0
+2012,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,24.5,24.5,0.0,244.5,2383610.0,9748.916155419223
+2012,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,80.45,80.45,0.0,563.15,2139970.0,3800.0
+2012,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,7.5,7.5,0.0,63.75,531250.0,8333.333333333334
+2013,8,Chihuahua,Zempoalxochitl,Flor en manojo,Gruesa,3.75,3.75,0.0,619.25,156957.0,253.4630601534114
+2013,9,Ciudad de México / DF,Zempoalxochitl,Flor en manojo,Manojo,35.0,35.0,0.0,31950.0,1278000.0,40.0
+2013,9,Ciudad de México / DF,Zempoalxochitl,Planta en maceta,Planta,7.5,6.7,0.8,901000.0,8109000.0,9.0
+2013,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,2.0,2.0,0.0,36.0,288000.0,8000.0
+2013,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,91.5,31.5,60.0,274.5,1363400.6400000001,4966.851147540984
+2013,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,65.0,65.0,0.0,688.0,1256540.0,1826.3662790697674
+2013,15,México,Zempoalxochitl,Flor en manojo,Manojo,89.0,89.0,0.0,140185.0,2673790.0,19.073296001712023
+2013,15,México,Zempoalxochitl,Planta en maceta,Planta,2.5,2.5,0.0,810000.0,7371000.0,9.1
+2013,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,48.0,48.0,0.0,249640.0,6968600.0,27.91459701970838
+2013,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,12.1,12.1,0.0,135.0,475698.0,3523.688888888889
+2013,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,42.25,42.25,0.0,299.2,2021410.0,6756.049465240642
+2013,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1214.5,1214.5,0.0,10023.99,33333539.0,3325.376322203035
+2013,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,28.0,28.0,0.0,269.4,2129218.0,7903.556050482554
+2013,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,13.0,13.0,0.0,79.5,477000.0,6000.0
+2013,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,10.0,10.0,0.0,51.0,382500.0,7500.0
+2013,29,Tlaxcala,Zempoalxochitl,Planta en maceta,Planta,4.0,4.0,0.0,24000.0,180000.0,7.5
+2014,8,Chihuahua,Zempoalxochitl,Flor en manojo,Gruesa,0.25,0.25,0.0,35.0,7000.0,200.0
+2014,9,Ciudad de México / DF,Zempoalxochitl,Flor en manojo,Manojo,34.0,34.0,0.0,37000.0,1295000.0,35.0
+2014,9,Ciudad de México / DF,Zempoalxochitl,Planta en maceta,Planta,8.0,8.0,0.0,1054000.0,10013000.0,9.5
+2014,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,3.0,3.0,0.0,30.0,150000.0,5000.0
+2014,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,94.5,94.5,0.0,788.5,4959799.82,6290.170982878884
+2014,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,68.0,68.0,0.0,737.5,1427490.0,1935.579661016949
+2014,15,México,Zempoalxochitl,Flor en manojo,Manojo,108.0,108.0,0.0,163081.0,3284489.0,20.14023092818906
+2014,15,México,Zempoalxochitl,Planta en maceta,Planta,2.6,2.6,0.0,842444.2,7876853.27,9.35
+2014,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,24.0,24.0,0.0,156000.0,6240000.0,40.0
+2014,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,20.5,20.5,0.0,244.7,890302.1,3638.341234164283
+2014,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,44.75,44.75,0.0,317.15,2160797.5,6813.172000630617
+2014,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,891.5,891.5,0.0,9168.02,21140395.78,2305.884561770153
+2014,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,41.5,36.5,5.0,349.0,1804100.0,5169.340974212035
+2014,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,8.0,8.0,0.0,33.0,257400.0,7800.0
+2014,29,Tlaxcala,Zempoalxochitl,Planta en maceta,Planta,4.0,4.0,0.0,24000.0,180000.0,7.5
+2015,8,Chihuahua,Zempoalxochitl,Flor en manojo,Gruesa,0.3,0.3,0.0,42.6,12354.0,290.0
+2015,9,Ciudad de México,Zempoalxochitl,Flor en manojo,Manojo,19.0,19.0,0.0,18050.0,703950.0,39.0
+2015,9,Ciudad de México,Zempoalxochitl,Planta en maceta,Planta,9.0,9.0,0.0,1170000.0,11700000.0,10.0
+2015,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,1.0,1.0,0.0,12.0,102000.0,8500.0
+2015,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,90.5,90.5,0.0,803.76,3417940.5,4252.439160943565
+2015,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,50.0,50.0,0.0,538.19,1129604.8,2098.895928947026
+2015,15,México,Zempoalxochitl,Flor en manojo,Manojo,77.5,77.5,0.0,109272.48,4187170.4,38.318617825824035
+2015,15,México,Zempoalxochitl,Planta en maceta,Planta,2.8,2.78,0.02,900728.34,7467037.94,8.290000001554299
+2015,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,55.0,55.0,0.0,288140.0,7838320.0,27.203165128062746
+2015,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,17.0,17.0,0.0,207.6,664720.01,3201.9268304431603
+2015,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,53.25,53.25,0.0,376.7,2642230.0,7014.149190337139
+2015,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1507.9,1507.9,0.0,14615.119999999999,44174247.05,3022.503205584354
+2015,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,51.0,51.0,0.0,551.98,4985834.0,9032.63524040726
+2015,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,11.0,11.0,0.0,58.0,464000.0,8000.0
+2015,29,Tlaxcala,Zempoalxochitl,Planta en maceta,Planta,5.0,5.0,0.0,29999.95,239999.6,8.0
+2016,8,Chihuahua,Zempoalxochitl,Flor en manojo,Gruesa,1.4,1.4,0.0,226.8,61306.0,270.3086419753086
+2016,9,Ciudad de México,Zempoalxochitl,Flor en manojo,Manojo,17.8,17.8,0.0,18265.0,821925.0,45.0
+2016,9,Ciudad de México,Zempoalxochitl,Planta en maceta,Planta,8.3,7.3,1.0,952650.0,9335970.0,9.8
+2016,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,5.0,5.0,0.0,52.29,469794.28,8984.400076496462
+2016,11,Guanajuato,Zempoalxochitl,Flor en manojo,Gruesa,7.0,7.0,0.0,935.0,149850.0,160.2673796791444
+2016,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,86.65,86.65,0.0,869.63,3530878.81,4060.2081459931237
+2016,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,70.0,70.0,0.0,704.7,1873600.08,2658.720136228182
+2016,13,Hidalgo,Zempoalxochitl,Flor en manojo,Gruesa,8.7,8.7,0.0,1153.02,184340.6,159.87632478187717
+2016,13,Hidalgo,Zempoalxochitl,Flor en manojo,Manojo,30.0,30.0,0.0,63240.0,2529600.0,40.0
+2016,15,México,Zempoalxochitl,Flor en manojo,Manojo,105.5,105.5,0.0,175158.5,6669422.82,38.07650111185013
+2016,15,México,Zempoalxochitl,Planta en maceta,Planta,2.7,2.7,0.0,874894.5,7436603.25,8.5
+2016,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,48.0,48.0,0.0,243629.0,6385241.0,26.208870865126894
+2016,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,20.8,20.8,0.0,253.4,862129.46,3402.2472770323598
+2016,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,45.75,45.75,0.0,317.9,2275022.5,7156.409248191256
+2016,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1267.8,1267.8,0.0,10836.45,30458918.88,2810.783871101698
+2016,21,Puebla,Zempoalxochitl,Flor en manojo,Manojo,65.0,65.0,0.0,100490.0,2512250.0,25.0
+2016,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,41.4,41.4,0.0,422.72,4102353.5,9704.659112414836
+2016,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,8.0,8.0,0.0,45.96,383852.02,8351.871627502176
+2016,30,Veracruz,Zempoalxochitl,Flor en manojo,Manojo,13.0,13.0,0.0,14885.0,401895.0,27.0
+2017,2,Baja California,Zempoalxochitl,Flor a granel (t),Tonelada,4.0,4.0,0.0,12.0,84720.0,7060.0
+2017,9,Ciudad de México,Zempoalxochitl,Flor en manojo,Manojo,21.0,21.0,0.0,21735.0,1086750.0,50.0
+2017,9,Ciudad de México,Zempoalxochitl,Planta en maceta,Planta,9.3,8.0,1.3,1046800.0,9421200.0,9.0
+2017,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,20.0,20.0,0.0,279.6,2516400.0,9000.0
+2017,11,Guanajuato,Zempoalxochitl,Flor en manojo,Gruesa,7.5,7.5,0.0,1034.0,157190.0,152.0212765957447
+2017,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,76.89,76.89,0.0,762.84,3142326.79,4119.247535525143
+2017,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,79.0,79.0,0.0,860.9,1950645.0,2265.8206528052037
+2017,13,Hidalgo,Zempoalxochitl,Flor en manojo,Gruesa,8.4,8.4,0.0,2710.2,452695.2,167.03387203896392
+2017,13,Hidalgo,Zempoalxochitl,Flor en manojo,Manojo,28.0,28.0,0.0,37800.0,2308824.0,61.08
+2017,15,México,Zempoalxochitl,Flor en manojo,Manojo,96.75,96.75,0.0,141687.75,6192052.0,43.70209845240679
+2017,15,México,Zempoalxochitl,Planta en maceta,Planta,2.9,2.9,0.0,939600.0,8644320.0,9.2
+2017,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,54.0,54.0,0.0,297990.0,8939700.0,30.0
+2017,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,21.0,21.0,0.0,203.0,999250.0,4922.413793103448
+2017,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,47.25,47.25,0.0,325.65,2371977.5,7283.824658375557
+2017,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1301.0,1301.0,0.0,11524.3,33923593.2,2943.6575930859144
+2017,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,52.1,52.1,0.0,594.65,5930568.5,9973.208610106785
+2017,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,84.0,84.0,0.0,467.63,4116533.0,8802.970297029704
+2017,29,Tlaxcala,Zempoalxochitl,Planta en maceta,Planta,7.0,7.0,0.0,670000.0,5920000.0,8.835820895522389
+2017,30,Veracruz,Zempoalxochitl,Flor en manojo,Manojo,14.0,14.0,0.0,51520.0,2178780.8,42.29
+2018,9,Ciudad de México,Zempoalxochitl,Flor en manojo,Manojo,29.0,29.0,0.0,30160.0,1658800.0,55.0
+2018,9,Ciudad de México,Zempoalxochitl,Planta en maceta,Planta,10.1,10.1,0.0,1333200.0,13998600.0,10.5
+2018,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,40.0,40.0,0.0,468.3,4448850.0,9500.0
+2018,11,Guanajuato,Zempoalxochitl,Flor en manojo,Gruesa,8.5,8.5,0.0,7357.0,1217419.81,165.47775044175617
+2018,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,70.16999999999999,70.16999999999999,0.0,757.03,3253617.46,4297.871233636712
+2018,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,128.0,128.0,0.0,1447.44,3524530.0,2435.0093958989664
+2018,13,Hidalgo,Zempoalxochitl,Flor en manojo,Gruesa,15.0,15.0,0.0,2020.0,256265.0,126.86386138613861
+2018,15,México,Zempoalxochitl,Flor en manojo,Manojo,84.5,84.5,0.0,128533.7,6016924.75,46.812040344283254
+2018,15,México,Zempoalxochitl,Planta en maceta,Planta,2.65,2.65,0.0,858862.35,9584903.83,11.160000004657324
+2018,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,55.5,55.5,0.0,313765.0,6825077.1,21.752193839338357
+2018,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,23.0,23.0,0.0,221.3,1189644.84,5375.710980569363
+2018,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,47.5,47.5,0.0,332.55,2461017.5,7400.443542324462
+2018,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1705.3,1705.3,0.0,15522.0,53516373.89,3447.775666151269
+2018,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,74.8,74.8,0.0,797.04,7863151.8,9865.441884974405
+2018,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,11.0,9.5,1.5,100.37,525077.0,5231.4137690544985
+2018,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,104.0,104.0,0.0,634.6,7153415.67,11272.322202962496
+2018,30,Veracruz,Zempoalxochitl,Flor en manojo,Manojo,14.0,14.0,0.0,23100.0,924000.0,40.0
+2019,9,Ciudad de México,Zempoalxochitl,Flor en manojo,Manojo,29.0,29.0,0.0,31099.89,1729775.88,55.61999994212198
+2019,9,Ciudad de México,Zempoalxochitl,Planta en maceta,Planta,10.4,10.4,0.0,1385400.0,10390500.0,7.5
+2019,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,12.37,12.37,0.0,177.8,1671320.0,9400.0
+2019,11,Guanajuato,Zempoalxochitl,Flor en manojo,Gruesa,9.0,9.0,0.0,1563.0,23809.17,15.23299424184261
+2019,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,81.5,81.5,0.0,541.2,2810866.65,5193.766906873613
+2019,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,132.82999999999998,132.82999999999998,0.0,1436.9499999999998,3937776.0,2740.370924527646
+2019,15,México,Zempoalxochitl,Flor en manojo,Manojo,91.62,91.62,0.0,136619.06,4672977.28,34.204431504652426
+2019,15,México,Zempoalxochitl,Planta en maceta,Planta,2.85,2.85,0.0,923425.65,8144614.23,8.819999996751228
+2019,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,53.34,53.34,0.0,264934.54,9272708.9,35.00000000000001
+2019,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,27.0,27.0,0.0,262.6,1634120.0,6222.848438690023
+2019,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,46.25,46.25,0.0,322.5,2425495.0,7520.914728682171
+2019,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1537.87,1537.87,0.0,14950.460000000001,41448967.68,2772.4208940728245
+2019,21,Puebla,Zempoalxochitl,Flor en manojo,Manojo,10.0,10.0,0.0,24185.0,1172972.5,48.5
+2019,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,51.0,51.0,0.0,564.73,4869606.83,8622.893825367875
+2019,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,76.99000000000001,76.99000000000001,0.0,421.52,4359718.640000001,10342.851205162271
+2019,30,Veracruz,Zempoalxochitl,Flor en manojo,Manojo,13.5,13.5,0.0,49942.44,998848.8,20.0
+2020,9,Ciudad de México,Zempoalxochitl,Flor en manojo,Manojo,27.39,27.39,0.0,28390.0,1577400.0,55.56181754138781
+2020,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,10.0,10.0,0.0,100.0,800000.0,8000.0
+2020,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,65.49,65.49,0.0,517.6600000000001,1826928.4300000002,3529.20532782135
+2020,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,105.0,105.0,0.0,1217.91,3138567.0,2577.0106165480206
+2020,15,México,Zempoalxochitl,Flor en manojo,Manojo,69.55,69.55,0.0,99159.95,4319677.73,43.56272597959156
+2020,16,Michoacán,Zempoalxochitl,Flor en manojo,Manojo,52.28,52.28,0.0,282351.65,8869017.95,31.411248880606855
+2020,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,29.5,29.5,0.0,291.15,1873935.0,6436.321483771252
+2020,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,46.349999999999994,46.349999999999994,0.0,326.7,2462007.0,7535.987144168963
+2020,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1471.95,1451.95,20.0,13937.78,40533936.26,2908.206060075564
+2020,21,Puebla,Zempoalxochitl,Flor en manojo,Manojo,12.0,12.0,0.0,35469.0,1205946.0,34.0
+2020,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,133.0,133.0,0.0,1420.92,13112819.5,9228.400965571602
+2020,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,6.5,6.5,0.0,57.0,290700.0,5100.0
+2020,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,104.0,104.0,0.0,594.9300000000001,6103806.87,10259.705965407695
+2020,30,Veracruz,Zempoalxochitl,Flor en manojo,Manojo,14.0,14.0,0.0,51800.0,1295000.0,25.0
+2021,9,Ciudad de México,Zempoalxochitl (manojo),Flor en manojo,Manojo,21.0,21.0,0.0,21000.0,1260000.0,60.0
+2021,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,17.75,17.75,0.0,202.17,1819530.0,9000.0
+2021,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,68.71000000000001,68.71000000000001,0.0,563.93,2043570.1199999999,3623.801039136063
+2021,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,110.7,110.7,0.0,1205.7,3503619.5,2905.8799867297007
+2021,15,México,Zempoalxochitl (manojo),Flor en manojo,Manojo,88.97,88.97,0.0,132843.6,6522934.44,49.10236127295557
+2021,16,Michoacán,Zempoalxochitl (manojo),Flor en manojo,Manojo,52.28,52.28,0.0,282351.65,11294066.0,40.0
+2021,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,31.5,31.5,0.0,374.79999999999995,2843960.0,7587.94023479189
+2021,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,43.3,43.3,0.0,341.04,2602693.55,7631.63719798264
+2021,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1556.67,1556.67,0.0,15324.1,66140515.370000005,4316.110921359166
+2021,21,Puebla,Zempoalxochitl (manojo),Flor en manojo,Manojo,10.3,10.3,0.0,29149.0,1136811.0,39.0
+2021,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,78.5,78.5,0.0,732.84,6667407.0,9098.039135418372
+2021,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,2.0,2.0,0.0,17.0,92650.0,5450.0
+2021,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,118.0,118.0,0.0,680.9,7764500.8,11403.290938463799
+2021,30,Veracruz,Zempoalxochitl (manojo),Flor en manojo,Manojo,11.0,11.0,0.0,34225.07,1026752.1,30.0
+2022,8,Chihuahua,Zempoalxochitl (gruesa),Flor en manojo,Gruesa,1.2,1.2,0.0,984.0,885600.0,900.0
+2022,9,Ciudad de México,Zempoalxochitl (manojo),Flor en manojo,Manojo,24.7,24.7,0.0,26985.0,1675275.0,62.08171206225681
+2022,9,Ciudad de México,Zempoalxochitl (planta),Planta en maceta,Planta,10.7,8.7,2.0,1277000.0,19078000.0,14.939702427564605
+2022,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,44.81,44.81,0.0,496.54,5213670.0,10500.0
+2022,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,88.4,88.4,0.0,838.13,4046982.32,4828.5854461718345
+2022,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,112.3,112.3,0.0,1224.96,3486820.7,2846.477191091954
+2022,15,México,Zempoalxochitl (manojo),Flor en manojo,Manojo,82.38,82.38,0.0,122108.68,6720102.75,55.03378424858905
+2022,15,México,Zempoalxochitl (planta),Planta en maceta,Planta,3.2,3.2,0.0,1036816.0,15552240.0,15.0
+2022,16,Michoacán,Zempoalxochitl (manojo),Flor en manojo,Manojo,52.72,52.72,0.0,282349.94,18183018.509999998,64.39887506262617
+2022,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,48.0,48.0,0.0,510.78999999999996,3502753.0,6857.520703224418
+2022,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,47.28,47.28,0.0,329.61,2555163.7,7752.0818543126725
+2022,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1580.54,1545.54,35.0,14451.06,85491879.24,5915.959053522717
+2022,21,Puebla,Zempoalxochitl (manojo),Flor en manojo,Manojo,9.15,9.15,0.0,26100.01,900450.35,34.50000019157081
+2022,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,121.0,121.0,0.0,1110.61,12236123.5,11017.480033495107
+2022,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,7.0,7.0,0.0,73.00999999999999,401555.0,5500.000000000001
+2022,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,45.0,45.0,0.0,272.3,2892541.0,10622.625780389277
+2022,30,Veracruz,Zempoalxochitl (manojo),Flor en manojo,Manojo,11.0,11.0,0.0,33242.0,1188401.5,35.75
+2023,8,Chihuahua,Zempoalxochitl (gruesa),Flor en manojo,Gruesa,2.0,2.0,0.0,1558.0,1480100.0,950.0
+2023,9,Ciudad de México,Zempoalxochitl (manojo),Flor en manojo,Manojo,24.7,24.7,0.0,27120.0,1766400.0,65.13274336283186
+2023,9,Ciudad de México,Zempoalxochitl (planta),Planta en maceta,Planta,10.8,10.8,0.0,1299000.0,16986000.0,13.07621247113164
+2023,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,66.5,66.5,0.0,718.87,7260587.0,10100.0
+2023,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,89.37,89.37,0.0,826.5500000000001,3978951.41,4813.9270582541885
+2023,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,116.5,116.5,0.0,1229.53,5034482.4,4094.639740388604
+2023,15,México,Zempoalxochitl (manojo),Flor en manojo,Manojo,85.18,85.18,0.0,126609.98000000001,7429368.7299999995,58.679171499750645
+2023,15,México,Zempoalxochitl (planta),Planta en maceta,Planta,3.3,3.3,0.0,1069200.0,16038000.0,15.0
+2023,16,Michoacán,Zempoalxochitl (manojo),Flor en manojo,Manojo,54.0,54.0,0.0,292609.89,19951015.02,68.18298253691971
+2023,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,47.0,47.0,0.0,549.34,3636033.0,6618.911785051152
+2023,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,111.07000000000001,111.07000000000001,0.0,859.9,6293006.85,7318.300790789626
+2023,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1606.7,1606.7,0.0,15385.98,97704098.05,6350.2031102341225
+2023,21,Puebla,Zempoalxochitl (manojo),Flor en manojo,Manojo,11.0,11.0,0.0,32945.88,1482564.6,45.00000000000001
+2023,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,100.0,100.0,0.0,999.71,9803707.4,9806.551299876965
+2023,25,Sinaloa,Zempoalxochitl,Flor a granel (t),Tonelada,9.41,9.41,0.0,65.96,791520.0,12000.000000000002
+2023,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,6.0,6.0,0.0,60.96,372108.0,6104.133858267716
+2023,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,115.5,115.5,0.0,658.51,7310401.9,11101.428831756542
+2023,30,Veracruz,Zempoalxochitl (manojo),Flor en manojo,Manojo,11.9,11.9,0.0,39426.25,1419345.0,36.0
+2024,9,Ciudad de México,Zempoalxochitl (manojo),Flor en manojo,Manojo,22.8,22.8,0.0,25092.0,1881900.0,75.0
+2024,9,Ciudad de México,Zempoalxochitl (planta),Planta en maceta,Planta,13.6,13.6,0.0,2061820.0,27166055.119999997,13.175764673928859
+2024,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,21.5,21.5,0.0,245.1,2573550.0,10500.0
+2024,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,94.37,94.37,0.0,875.15,4180318.22,4776.687676398332
+2024,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,107.91,107.91,0.0,1144.1,5534412.89,4837.350659907351
+2024,15,México,Zempoalxochitl (manojo),Flor en manojo,Manojo,67.53,67.53,0.0,102514.88,5801598.3,56.592743414419445
+2024,15,México,Zempoalxochitl (planta),Planta en maceta,Planta,3.4,3.4,0.0,1101608.5,16590224.01,15.06
+2024,16,Michoacán,Zempoalxochitl (manojo),Flor en manojo,Manojo,56.0,56.0,0.0,304417.06,21422211.259999998,70.37125731389692
+2024,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,51.0,51.0,0.0,592.7,4182230.0,7056.234182554412
+2024,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,127.42,127.42,0.0,1007.4300000000001,6999548.78,6947.92569210764
+2024,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1591.7,1591.7,0.0,15311.27,99252593.6,6482.3227335159
+2024,21,Puebla,Zempoalxochitl (manojo),Flor en manojo,Manojo,12.0,12.0,0.0,35256.36,1543498.2,43.779284078106755
+2024,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,69.0,69.0,0.0,652.3,5765620.0,8838.908477694313
+2024,26,Sonora,Zempoalxochitl,Flor a granel (t),Tonelada,2.0,2.0,0.0,22.5,146250.0,6500.0
+2024,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,139.0,139.0,0.0,808.64,9733236.0,12036.550257222003
+2024,30,Veracruz,Zempoalxochitl (manojo),Flor en manojo,Manojo,12.9,12.9,0.0,42738.99,1282169.7,30.0
+2025,9,Ciudad de México,Zempoalxochitl (manojo),Flor en manojo,Manojo,22.8,22.8,0.0,26100.0,1700415.0,65.15
+2025,9,Ciudad de México,Zempoalxochitl (planta),Planta en maceta,Planta,15.1,15.1,0.0,1952000.0,30744000.0,15.75
+2025,10,Durango,Zempoalxochitl,Flor a granel (t),Tonelada,14.5,14.5,0.0,121.84,1827543.75,14999.538328956007
+2025,12,Guerrero,Zempoalxochitl,Flor a granel (t),Tonelada,85.61,85.61,0.0,799.61,3756797.39,4698.287152486838
+2025,13,Hidalgo,Zempoalxochitl,Flor a granel (t),Tonelada,117.35,114.85,2.5,1274.42,6450532.53,5061.543706156526
+2025,15,México,Zempoalxochitl (manojo),Flor en manojo,Manojo,126.69,126.69,0.0,177649.78,12743364.88,71.73307436688073
+2025,15,México,Zempoalxochitl (planta),Planta en maceta,Planta,3.3,3.3,0.0,1069200.0,16786440.0,15.7
+2025,16,Michoacán,Zempoalxochitl (manojo),Flor en manojo,Manojo,37.0,37.0,0.0,182772.0,10966320.0,60.0
+2025,17,Morelos,Zempoalxochitl,Flor a granel (t),Tonelada,51.0,51.0,0.0,570.5,3999750.0,7010.955302366346
+2025,20,Oaxaca,Zempoalxochitl,Flor a granel (t),Tonelada,122.9,122.9,0.0,994.82,6933794.3,6969.898373575119
+2025,21,Puebla,Zempoalxochitl,Flor a granel (t),Tonelada,1007.3,1007.3,0.0,9651.69,72500751.0,7511.715668447701
+2025,21,Puebla,Zempoalxochitl (manojo),Flor en manojo,Manojo,15.0,15.0,0.0,40216.77,2413006.5,60.000007459574704
+2025,24,San Luis Potosí,Zempoalxochitl,Flor a granel (t),Tonelada,113.5,113.5,0.0,995.75,8511510.77,8547.839086115993
+2025,29,Tlaxcala,Zempoalxochitl,Flor a granel (t),Tonelada,39.0,38.5,0.5,186.21,931043.75,4999.966435744589
